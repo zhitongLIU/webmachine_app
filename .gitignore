@@ -1,0 +1,5 @@
+vendor
+.bundle
+.ruby-version
+config
+.byebug_history
